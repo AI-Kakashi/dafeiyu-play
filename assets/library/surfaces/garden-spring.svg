@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 160"><defs>
+  <linearGradient id="stone" x1="0" y1="0" x2=".9" y2="1"><stop stop-color="#9da997"/><stop offset=".45" stop-color="#71867d"/><stop offset="1" stop-color="#49666b"/></linearGradient>
+  <linearGradient id="top" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#cad0b5"/><stop offset="1" stop-color="#899e91"/></linearGradient>
+  <linearGradient id="metal" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#759494"/><stop offset=".5" stop-color="#4a6975"/><stop offset="1" stop-color="#354e61"/></linearGradient>
+  <linearGradient id="wood" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a19073"/><stop offset="1" stop-color="#695c56"/></linearGradient>
+  <linearGradient id="lunar" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a8a7bb"/><stop offset=".55" stop-color="#767b98"/><stop offset="1" stop-color="#4b5877"/></linearGradient>
+  <linearGradient id="moonTop" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d0c9d3"/><stop offset="1" stop-color="#9194b1"/></linearGradient>
+  <linearGradient id="water" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#9cdbd3"/><stop offset=".45" stop-color="#5f9fa5"/><stop offset="1" stop-color="#376c81"/></linearGradient>
+  <linearGradient id="crystal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#dcf2cd"/><stop offset=".45" stop-color="#90cbaf"/><stop offset="1" stop-color="#4f8992"/></linearGradient>
+  <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ead9a2"/><stop offset=".5" stop-color="#b8a079"/><stop offset="1" stop-color="#7e7166"/></linearGradient>
+  <radialGradient id="core"><stop stop-color="#e5fff0"/><stop offset=".4" stop-color="#a4dacb"/><stop offset="1" stop-color="#698eab"/></radialGradient>
+</defs><g stroke="#365862" stroke-width="1.9" stroke-linejoin="round">
+    <ellipse cx="96" cy="132" rx="47" ry="11" fill="#405f65"/><path d="M51 111q2 28 45 28t45-28" fill="url(#stone)"/><ellipse cx="96" cy="110" rx="46" ry="17" fill="url(#top)"/><ellipse cx="96" cy="109" rx="37" ry="11" fill="url(#water)"/>
+    <path d="M66 106q24-11 51-2m-43 10q21 7 42-1" fill="none" stroke="#cbebd8" stroke-opacity=".65" stroke-width="1.4"/>
+    <path fill="url(#stone)" d="M88 110V74h16v36q-8 6-16 0Z"/><ellipse cx="96" cy="74" rx="16" ry="6" fill="url(#top)"/><path d="M85 75q-4 18-16 26m37-26q3 18 16 25" stroke="#a5e1d5" stroke-opacity=".65" stroke-width="2.4" fill="none"/>
+    <path d="m95 50-7 14 8 7 8-9Z" fill="url(#crystal)"/><path d="m95 53 1 13 6-5" stroke="#f0f4d3" stroke-width="1" fill="none"/><path d="M62 122q27 13 66 0" stroke="#b6c3a2" stroke-opacity=".45" fill="none" stroke-width="1"/>
+  </g></svg>

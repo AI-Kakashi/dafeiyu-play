@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 160"><defs>
+  <linearGradient id="stone" x1="0" y1="0" x2=".9" y2="1"><stop stop-color="#9da997"/><stop offset=".45" stop-color="#71867d"/><stop offset="1" stop-color="#49666b"/></linearGradient>
+  <linearGradient id="top" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#cad0b5"/><stop offset="1" stop-color="#899e91"/></linearGradient>
+  <linearGradient id="metal" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#759494"/><stop offset=".5" stop-color="#4a6975"/><stop offset="1" stop-color="#354e61"/></linearGradient>
+  <linearGradient id="wood" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a19073"/><stop offset="1" stop-color="#695c56"/></linearGradient>
+  <linearGradient id="lunar" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a8a7bb"/><stop offset=".55" stop-color="#767b98"/><stop offset="1" stop-color="#4b5877"/></linearGradient>
+  <linearGradient id="moonTop" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d0c9d3"/><stop offset="1" stop-color="#9194b1"/></linearGradient>
+  <linearGradient id="water" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#9cdbd3"/><stop offset=".45" stop-color="#5f9fa5"/><stop offset="1" stop-color="#376c81"/></linearGradient>
+  <linearGradient id="crystal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#dcf2cd"/><stop offset=".45" stop-color="#90cbaf"/><stop offset="1" stop-color="#4f8992"/></linearGradient>
+  <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ead9a2"/><stop offset=".5" stop-color="#b8a079"/><stop offset="1" stop-color="#7e7166"/></linearGradient>
+  <radialGradient id="core"><stop stop-color="#e5fff0"/><stop offset=".4" stop-color="#a4dacb"/><stop offset="1" stop-color="#698eab"/></radialGradient>
+</defs><g stroke="#344e56" stroke-width="2.2" stroke-linejoin="round">
+    <path fill="#45656b" d="m51 126 75-3 18 11-9 10H54l-8-8Z"/><path fill="url(#top)" d="m48 123 79-4 17 12-16 7H49l-5-7Z"/>
+    <path fill="url(#stone)" d="m65 61 54-2 7 65-63 3Z"/><path fill="#41636a" d="m111 63 9-4 7 65-15 3Z" stroke="none"/>
+    <path d="m70 69-3 50m9-48-3 46" stroke="#c2cbb2" stroke-opacity=".38" stroke-width="1.3"/>
+    <path fill="url(#top)" d="m55 54 65-5 16 13-16 8-64 1-6-8Z"/><path fill="#78958b" d="m55 64 64-1 16-4v9l-15 8-65-3Z"/><path d="m57 55 61-4 13 10" fill="none" stroke="#e2dfbf" stroke-opacity=".65" stroke-width="1.5"/>
+    <path d="m87 52-2-18m0 8-11-5m12 10 12-11m17 15 3-13" stroke="#6e8b7f" stroke-width="5" stroke-linecap="round"/><path d="m85 32 1 13m-11-9 10 5m14-7-11 11" stroke="#c6bca1" stroke-width="2" stroke-linecap="round"/>
+    <path d="m62 91 5-4 4 2m40 24 5-2 3 2m-61 11 6-1m55-39 3 5" stroke="#d0d5bb" stroke-opacity=".38" stroke-width="1.1" fill="none"/><path d="m83 75-4 16 7 8-3 16m38-50-7 14 5 10" stroke="#405b61" stroke-opacity=".65" stroke-width="1.4" fill="none"/><path d="m53 132 18-1 9 4-6 4H54m60-66 8-2 3 7-10 3" fill="#78936d" stroke="none" opacity=".74"/><path d="m59 132 6 1m51-56 3-2" stroke="#b2bd87" stroke-width="1.1"/>
+  </g></svg>

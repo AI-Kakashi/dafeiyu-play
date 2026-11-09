@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 160"><defs>
+  <linearGradient id="stone" x1="0" y1="0" x2=".9" y2="1"><stop stop-color="#9da997"/><stop offset=".45" stop-color="#71867d"/><stop offset="1" stop-color="#49666b"/></linearGradient>
+  <linearGradient id="top" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#cad0b5"/><stop offset="1" stop-color="#899e91"/></linearGradient>
+  <linearGradient id="metal" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#759494"/><stop offset=".5" stop-color="#4a6975"/><stop offset="1" stop-color="#354e61"/></linearGradient>
+  <linearGradient id="wood" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a19073"/><stop offset="1" stop-color="#695c56"/></linearGradient>
+  <linearGradient id="lunar" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a8a7bb"/><stop offset=".55" stop-color="#767b98"/><stop offset="1" stop-color="#4b5877"/></linearGradient>
+  <linearGradient id="moonTop" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d0c9d3"/><stop offset="1" stop-color="#9194b1"/></linearGradient>
+  <linearGradient id="water" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#9cdbd3"/><stop offset=".45" stop-color="#5f9fa5"/><stop offset="1" stop-color="#376c81"/></linearGradient>
+  <linearGradient id="crystal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#dcf2cd"/><stop offset=".45" stop-color="#90cbaf"/><stop offset="1" stop-color="#4f8992"/></linearGradient>
+  <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ead9a2"/><stop offset=".5" stop-color="#b8a079"/><stop offset="1" stop-color="#7e7166"/></linearGradient>
+  <radialGradient id="core"><stop stop-color="#e5fff0"/><stop offset=".4" stop-color="#a4dacb"/><stop offset="1" stop-color="#698eab"/></radialGradient>
+</defs><g stroke="#424963" stroke-width="1.9" stroke-linejoin="round">
+    <path fill="#45516d" d="m51 129 72-5 22 12-12 8H54l-7-8Z"/><path fill="url(#lunar)" d="m66 104 48-4 12 31-62 4Z"/><path fill="url(#moonTop)" d="m59 103 54-5 16 11-13 8H62l-9-8Z"/>
+    <path fill="url(#gold)" d="M104 53c-28 1-38 33-14 45 12 5 26-1 30-11-19 10-39-8-30-25 3-5 8-8 14-9Z"/><path d="M101 57c-21 6-25 26-11 36" fill="none" stroke="#f1e3ba" stroke-width="1.2" stroke-opacity=".7"/>
+    <path d="m93 109-5 8 6 8 6-9Z" fill="#8399ba"/><path d="m68 129 47-3m-45 9 47-2" stroke="#cbc6d7" stroke-opacity=".44" stroke-width="1"/>
+  </g></svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 160"><defs>
+  <linearGradient id="stone" x1="0" y1="0" x2=".9" y2="1"><stop stop-color="#9da997"/><stop offset=".45" stop-color="#71867d"/><stop offset="1" stop-color="#49666b"/></linearGradient>
+  <linearGradient id="top" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#cad0b5"/><stop offset="1" stop-color="#899e91"/></linearGradient>
+  <linearGradient id="metal" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#759494"/><stop offset=".5" stop-color="#4a6975"/><stop offset="1" stop-color="#354e61"/></linearGradient>
+  <linearGradient id="wood" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a19073"/><stop offset="1" stop-color="#695c56"/></linearGradient>
+  <linearGradient id="lunar" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a8a7bb"/><stop offset=".55" stop-color="#767b98"/><stop offset="1" stop-color="#4b5877"/></linearGradient>
+  <linearGradient id="moonTop" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d0c9d3"/><stop offset="1" stop-color="#9194b1"/></linearGradient>
+  <linearGradient id="water" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#9cdbd3"/><stop offset=".45" stop-color="#5f9fa5"/><stop offset="1" stop-color="#376c81"/></linearGradient>
+  <linearGradient id="crystal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#dcf2cd"/><stop offset=".45" stop-color="#90cbaf"/><stop offset="1" stop-color="#4f8992"/></linearGradient>
+  <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ead9a2"/><stop offset=".5" stop-color="#b8a079"/><stop offset="1" stop-color="#7e7166"/></linearGradient>
+  <radialGradient id="core"><stop stop-color="#e5fff0"/><stop offset=".4" stop-color="#a4dacb"/><stop offset="1" stop-color="#698eab"/></radialGradient>
+</defs><g stroke="#394258" stroke-width="2" stroke-linejoin="round">
+    <path fill="#424f6c" d="m49 130 78-4 18 12-13 7H50l-5-8Z"/><path fill="url(#lunar)" d="m64 54 23-9 14 8 19-6 14 84-70 5Z"/><path fill="#52617d" d="m116 53 5-5 13 83-16 4Z" stroke="none"/>
+    <path fill="url(#moonTop)" d="m64 54 23-9 14 8 19-6-6 17-22 5-17-8Z"/><path d="m68 54 17-6 15 8 15-5" stroke="#e4d8d4" stroke-width="1.1" stroke-opacity=".6" fill="none"/>
+    <path d="m75 69-7 56m43-57 4 55" stroke="#d1cddd" stroke-opacity=".25" stroke-width="1.2"/>
+    <path d="m89 71-7 15 8 9-4 10m32 8 8-4" stroke="#39465e" stroke-width="1.6" fill="none"/>
+    <path d="m99 83-10 17 11 16 10-17Z" fill="#485a77"/><path d="m98 87-7 13 9 12 8-13Z" fill="none" stroke="#b8afce" stroke-opacity=".68" stroke-width="1.2"/>
+    <path fill="url(#moonTop)" d="m48 130 79-3 17 10-14 4H49l-4-5Z"/><path d="m51 132 74-2 14 7" stroke="#d4cad5" stroke-opacity=".6" stroke-width="1" fill="none"/>
+    <path d="m77 76 3 2m38 47 4-2m-61 8 7 1m22-12 3 1" stroke="#d5c9d5" stroke-opacity=".36" stroke-width="1"/>
+  </g></svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 160"><defs>
+  <linearGradient id="stone" x1="0" y1="0" x2=".9" y2="1"><stop stop-color="#9da997"/><stop offset=".45" stop-color="#71867d"/><stop offset="1" stop-color="#49666b"/></linearGradient>
+  <linearGradient id="top" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#cad0b5"/><stop offset="1" stop-color="#899e91"/></linearGradient>
+  <linearGradient id="metal" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#759494"/><stop offset=".5" stop-color="#4a6975"/><stop offset="1" stop-color="#354e61"/></linearGradient>
+  <linearGradient id="wood" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a19073"/><stop offset="1" stop-color="#695c56"/></linearGradient>
+  <linearGradient id="lunar" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a8a7bb"/><stop offset=".55" stop-color="#767b98"/><stop offset="1" stop-color="#4b5877"/></linearGradient>
+  <linearGradient id="moonTop" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d0c9d3"/><stop offset="1" stop-color="#9194b1"/></linearGradient>
+  <linearGradient id="water" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#9cdbd3"/><stop offset=".45" stop-color="#5f9fa5"/><stop offset="1" stop-color="#376c81"/></linearGradient>
+  <linearGradient id="crystal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#dcf2cd"/><stop offset=".45" stop-color="#90cbaf"/><stop offset="1" stop-color="#4f8992"/></linearGradient>
+  <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ead9a2"/><stop offset=".5" stop-color="#b8a079"/><stop offset="1" stop-color="#7e7166"/></linearGradient>
+  <radialGradient id="core"><stop stop-color="#e5fff0"/><stop offset=".4" stop-color="#a4dacb"/><stop offset="1" stop-color="#698eab"/></radialGradient>
+</defs><g stroke="#365c65" stroke-width="1.8" stroke-linejoin="round">
+    <path fill="#44636a" d="m60 127 54-3 20 11-13 8H65l-11-8Z"/><path fill="url(#top)" d="m60 125 53-3 19 11-13 4H64l-9-6Z"/>
+    <path fill="url(#crystal)" d="m94 57-20 31 7 39 23 2 14-40Z"/><path fill="#cdf0cf" d="m94 57-4 37 14 35 14-40Z" opacity=".65"/><path d="m94 61-4 33-11-7m11 7 24-6" stroke="#e3f0cc" stroke-width="1.1" fill="none"/>
+    <path fill="#74b5a3" d="m66 92-12 17 10 20 14-2-4-25Z"/><path fill="#a9d7bd" d="m119 102 13 11-8 18-15-1Z"/><path d="m93 70 4-6m-34 46 3-5" stroke="#f1f5d6" stroke-width="1.2"/>
+  </g></svg>
